@@ -1,0 +1,14 @@
+html,body{
+  margin: 0;
+  padding: 0;
+}
+.light-mode{
+  background: whitesmoke;
+  color: black;
+  width: 100%;
+}
+.dark-mode{
+  background:rgb(13, 11,12);
+  color: whitesmoke;
+  width: 100%;
+}
